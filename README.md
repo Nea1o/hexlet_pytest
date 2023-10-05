@@ -1,0 +1,2 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/bb2f29b0752cc22116d3/maintainability)](https://codeclimate.com/github/Nea1o/hexlet_pytest/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/bb2f29b0752cc22116d3/test_coverage)](https://codeclimate.com/github/Nea1o/hexlet_pytest/test_coverage)

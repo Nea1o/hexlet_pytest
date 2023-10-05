@@ -1,14 +1,11 @@
-nstall:
+install:
 	poetry install
 
 test:
 	poetry run pytest
 
-test-coverage:
-	poetry run pytest --cov=hexlet_pytest --cov-report xml
-
 lint:
-	poetry run flake8 hexlet_python_package
+	poetry run flake8 hexlet_pytest
 
 selfcheck:
 	poetry check
